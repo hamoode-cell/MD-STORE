@@ -1,4 +1,4 @@
 var shopSettings = {
-    walletNumber: "0987777", 
-    exchangeRate: 140
+    walletNumber: "2bc3b1618430a2facee4f0267f96e530", 
+    exchangeRate: 150
 };
