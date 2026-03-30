@@ -1,6 +1,6 @@
 // --- إعدادات المتجر المركزية ---
 const shopSettings = {
-    walletNumber: "09xxxxxxx", // ضع رقم محفظتك هنا
+    walletNumber: "2bc3b1618430a2facee4f0267f96e530", // ضع رقم محفظتك هنا
     exchangeRate: 15000,       // ضع سعر صرف الدولار مقابل الليرة هنا
 };
 
