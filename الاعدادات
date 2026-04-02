@@ -1,1 +1,14 @@
-
+{
+  "exchangeRate": 15500,
+  "free_fire_packages": [
+    { "name": "FREE FIRE 110 Elmas", "usd": 1.10 },
+    { "name": "FREE FIRE 210 Elmas", "usd": 2.10 },
+    { "name": "FREE FIRE 583 Elmas", "usd": 6.10 },
+    { "name": "FREE FIRE 1188 Elmas", "usd": 11.30 },
+    { "name": "FREE FIRE 2420 Elmas", "usd": 23.00 }
+  ],
+  "pubg_packages": [
+    { "name": "60 UC", "usd": 1.00 },
+    { "name": "325 UC", "usd": 5.00 }
+  ]
+}
